@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationTesting", "AutomationTesting\AutomationTesting.csproj", "{AB8762DE-DC27-4F0B-8F93-E5AD2AC277BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationTesting.UnitTests", "AutomationTesting.UnitTests\AutomationTesting.UnitTests.csproj", "{9F9F4F5A-D044-43C9-BC3E-FA1673CE5369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB8762DE-DC27-4F0B-8F93-E5AD2AC277BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8762DE-DC27-4F0B-8F93-E5AD2AC277BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8762DE-DC27-4F0B-8F93-E5AD2AC277BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8762DE-DC27-4F0B-8F93-E5AD2AC277BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9F4F5A-D044-43C9-BC3E-FA1673CE5369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9F4F5A-D044-43C9-BC3E-FA1673CE5369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9F4F5A-D044-43C9-BC3E-FA1673CE5369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9F4F5A-D044-43C9-BC3E-FA1673CE5369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {578B4EE3-CDCA-4F6E-A266-3CD4C6ADE8B8}
+	EndGlobalSection
+EndGlobal
